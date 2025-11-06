@@ -30,3 +30,7 @@ body {
 .nav-link:focus {
     color: #404bbf;
 }
+.nav-link:hover,
+.nav-link:focus {
+    color: #404bbf;
+}
