@@ -26,12 +26,10 @@
     background-color: #2E2F42;
 }
 
-.hero h1 {
-    color: #ffffff;
-}
 address {
     font-style: normal;
 }
+
 address a:hover,
 address a:focus {
     color: #404bbf;
@@ -39,6 +37,9 @@ address a:focus {
 address a {
     line-height: 1.5;
     letter-spacing: 0.02em;
+            color: #434455;
+            font-weight: 400;
+            text-decoration: none;
 }
 .hero-title {
     font-size: 56px;
