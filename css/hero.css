@@ -1,9 +1,9 @@
-#hero button {
+.hero button {
     color: #ffffff;
     background-color: #4D5AE5;
 }
 
-#hero button:hover {
+.hero button:hover {
     background-color: #404BBF;
     cursor: pointer;
 }
@@ -22,10 +22,39 @@
     color: #404BBF;
 }
 
-#hero {
+.hero {
     background-color: #2E2F42;
 }
 
-#hero h1 {
+.hero h1 {
     color: #ffffff;
+}
+address {
+    font-style: normal;
+}
+address a:hover,
+address a:focus {
+    color: #404bbf;
+}
+address a {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+.hero-title {
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.hero-btn {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+.hero-btn:hover {
+    background-color: #404BBF;
+}
+.hero-btn:hover:focus {
+    background-color: #404BBF;
 }

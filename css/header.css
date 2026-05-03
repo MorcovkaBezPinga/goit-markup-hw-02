@@ -3,6 +3,12 @@ li {
     list-style: none;
 }
 
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
 a {
     text-decoration: none;
     list-style: none;
@@ -11,9 +17,13 @@ a {
 .logo {
     text-decoration: none;
     color: #4D5AE5;
-    font-size: 24px;
     line-height: 1.5;
     font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+        font-weight: 700;
+        line-height: 1.33;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
 }
 
 .logo span {
@@ -22,12 +32,16 @@ a {
 
 .nav a {
     color: #2E2F42;
+    font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-decoration: none;
 }
 
 .nav a:hover {
-    color: #404BBF;
+    color: #404bbf;
 }
 
 .nav a:active {
-    color: #404BBF;
+    color: #404bbf;
 }
