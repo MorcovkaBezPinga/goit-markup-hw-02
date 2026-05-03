@@ -7,7 +7,9 @@
     background-color: #404BBF;
     cursor: pointer;
 }
-
+.contact-list {
+    line-height: 1.5;
+}
 .contact a {
     text-decoration: none;
     list-style: none;
@@ -40,6 +42,7 @@ address a {
             color: #434455;
             font-weight: 400;
             text-decoration: none;
+            font-style: normal;
 }
 .hero-title {
     font-size: 56px;
