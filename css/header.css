@@ -1,0 +1,33 @@
+li {
+    text-decoration: none;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    list-style: none;
+}
+
+.logo {
+    text-decoration: none;
+    color: #4D5AE5;
+    font-size: 24px;
+    line-height: 1.5;
+    font-family: 'Raleway', sans-serif;
+}
+
+.logo span {
+    color: #2E2F42
+}
+
+.nav a {
+    color: #2E2F42;
+}
+
+.nav a:hover {
+    color: #404BBF;
+}
+
+.nav a:active {
+    color: #404BBF;
+}

@@ -1,11 +1,31 @@
+#hero button {
+    color: #ffffff;
+    background-color: #4D5AE5;
+}
+
+#hero button:hover {
+    background-color: #404BBF;
+    cursor: pointer;
+}
+
+.contact a {
+    text-decoration: none;
+    list-style: none;
+    color: #434455;
+    font-size: 16px;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+.contact a:hover {
+    color: #404BBF;
+}
+
 #hero {
     background-color: #2E2F42;
 }
 
 #hero h1 {
     color: #ffffff;
-}
-#hero button {
-    color: #ffffff;
-    background-color: #4D5AE5;
 }
