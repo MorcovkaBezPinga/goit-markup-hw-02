@@ -7,7 +7,8 @@
     background-color: #404BBF;
     cursor: pointer;
 }
-.contact-list {
+
+.contact-list a {
     line-height: 1.5;
 }
 .contact a {
@@ -61,4 +62,8 @@ address a {
 }
 .hero-btn:hover:focus {
     background-color: #404BBF;
+}
+.contact-list a:hover,
+.contact-list a:focus {
+    color: #404bbf;
 }
