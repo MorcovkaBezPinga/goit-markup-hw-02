@@ -22,8 +22,9 @@
 
 }
 
-.contact a:hover {
-    color: #404BBF;
+.contact a:hover,
+.contact a:focus {
+    color: #404bbf;
 }
 
 .hero {

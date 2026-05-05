@@ -2,13 +2,6 @@
     background-color: #2E2F42;
 }
 
-.footer a {
-    text-decoration: none;
-    color: #4D5AE5;
-    font-size: 24px;
-    line-height: 1.33;
-}
-
 .footer a span {
     color: #f4f4fd
 }
@@ -22,4 +15,7 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     text-decoration: none;
+    color: #4D5AE5;
+    font-size: 24px;
+    line-height: 1.33;
 }
