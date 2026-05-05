@@ -45,3 +45,6 @@ a {
 .nav a:active {
     color: #404bbf;
 }
+.nav a:focus {
+    color: #404bbf;
+}

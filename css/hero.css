@@ -1,11 +1,12 @@
-.hero button {
+.hero-btn {
+    background-color: #4d5ae5;
     color: #ffffff;
-    background-color: #4D5AE5;
+    cursor: pointer;
 }
 
-.hero button:hover {
-    background-color: #404BBF;
-    cursor: pointer;
+.hero-btn:hover,
+.hero-btn:focus {
+    background-color: #404bbf;
 }
 
 .contact-list a {
