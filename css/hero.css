@@ -9,49 +9,13 @@
     background-color: #404bbf;
 }
 
-.contact-list a {
-    line-height: 1.5;
-}
-.contact a {
-    text-decoration: none;
-    list-style: none;
-    color: #434455;
-    font-size: 16px;
-    text-decoration: none;
-    list-style: none;
-
-}
-
-.contact a:hover,
-.contact a:focus {
-    color: #404bbf;
-}
-
-.hero {
-    background-color: #2E2F42;
-}
-
-address {
-    font-style: normal;
-}
-
-address a:hover,
-address a:focus {
-    color: #404bbf;
-}
-address a {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-            color: #434455;
-            font-weight: 400;
-            text-decoration: none;
-            font-style: normal;
-}
 .hero-title {
     font-size: 56px;
+    font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
+    color: #fff;
 }
 .hero-btn {
     font-weight: 500;
@@ -64,8 +28,4 @@ address a {
 }
 .hero-btn:hover:focus {
     background-color: #404BBF;
-}
-.contact-list a:hover,
-.contact-list a:focus {
-    color: #404bbf;
 }

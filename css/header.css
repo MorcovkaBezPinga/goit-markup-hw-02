@@ -48,3 +48,45 @@ a {
 .nav a:focus {
     color: #404bbf;
 }
+.contact-list a:hover,
+.contact-list a:focus {
+    color: #404bbf;
+}
+address {
+    font-style: normal;
+}
+
+address a:hover,
+address a:focus {
+    color: #404bbf;
+}
+
+address a {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+}
+address {
+    font-style: normal;
+}
+
+address a:hover,
+address a:focus {
+    color: #404bbf;
+}
+
+address a {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: normal;
+}
+
+.hero {
+    background-color: #2E2F42;
+}
